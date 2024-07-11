@@ -1,0 +1,18 @@
+10000    \\ network size
+4000    \\ simulation time
+100    \\ average number
+4    \\ q_min
+4    \\ q_max
+1    \\ dq
+0.75    \\ p_eng_min
+0.75    \\ p_eng_max
+1    \\ dp_eng
+0.05    \\ b_min
+0.05    \\ b_max
+1    \\ db
+8    \\ k_min
+8    \\ k_max
+1    \\ dk
+0.2    \\ p_ind_min
+0.2    \\ p_ind_max
+1    \\ dp_ind
